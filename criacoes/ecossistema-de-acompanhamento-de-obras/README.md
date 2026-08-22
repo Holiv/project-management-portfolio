@@ -48,8 +48,15 @@ retigráfico — e toda leitura (curva, desvio, relatório) deriva do mesmo dado
   inconsistência de grafia.
 - Escala de entrega: **329 commits em dois meses**, ~11 domínios funcionais, 48 migrations —
   concepção, implementação e operação por uma pessoa.
-- *Em levantamento: horas economizadas por ciclo de medição, usuários ativos, volume de
-  relatórios processados.*
+- Operação real, medida em 22/08/2026 por consulta ao banco de produção (dados de teste
+  excluídos): **25 contas de usuário reais** em dois setores, em ~6 semanas de operação;
+  **12 importações de cronograma** processadas; acervo semanal cobrindo **10 semanas**
+  (jun–ago/2026); **7.245 tarefas** na fotografia atual e **~193 mil registros de avanço
+  físico** no acervo — incluindo a carga do histórico legado, incorporado ao mesmo modelo.
+- **4 projetos com acervo ativo, de uma carteira mapeada de 32** — o estado real de uma
+  implantação em expansão, não um piloto encerrado.
+- *Em levantamento: comparativo de horas por ciclo (entrará como estimativa rotulada, com o
+  método de chegada ao número).*
 
 ## Capacidades demonstradas
 

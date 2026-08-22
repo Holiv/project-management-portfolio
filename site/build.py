@@ -167,9 +167,11 @@ footer a{{color:#fff}}
 <div class="n"><strong>6.483 atividades</strong><span>maior cronograma processado — rateio no tempo reproduzindo o MS Project ao centavo</span></div>
 <div class="n"><strong>2 cliques</strong><span>para qualquer gestor acessar avanço e desvio, de onde estiver</span></div>
 <div class="n"><strong>510 → 5.251 atividades</strong><span>auditadas com os mesmos critérios — método provado à mão, depois codificado, relatório em um comando</span></div>
+<div class="n"><strong>25 usuários reais</strong><span>em dois setores, ~6 semanas de operação — medido no banco em 22/08/2026</span></div>
+<div class="n"><strong>~193 mil registros</strong><span>de avanço físico no acervo, incluindo a carga do histórico legado</span></div>
 <div class="n"><strong>0 → 1, sozinho</strong><span>concepção, arquitetura, implementação e operação por uma pessoa</span></div>
 </div>
-<p class="ress">Números operacionais (horas por ciclo, usuários ativos, relatórios processados) em levantamento — serão incorporados com data e método de medição.</p>
+<p class="ress">Números de operação medidos em 22/08/2026 por consulta ao banco de produção, com dados de teste excluídos. Comparativos de tempo (antes × depois) entrarão como estimativa rotulada, com o método — nunca como medição que não houve.</p>
 </section>
 {"".join(sec_criacoes)}
 <section id="linha-do-tempo" class="bloco"><h2>Linha do tempo</h2>{linha}</section>
