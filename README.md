@@ -2,8 +2,9 @@
 
 **Helton da Silva de Oliveira** · Engenheiro Civil (CREA-RJ) · Analista de Planejamento Sênior
 
-> Construo as ferramentas que o planejamento de obras usa — e este repositório documenta o que
-> foi construído, como funciona e **que resultado produziu**.
+> Construo as ferramentas que empresas de infraestrutura usam para planejar e acompanhar
+> suas obras — **de quem alimenta o dado em campo a quem decide com ele na gestão**. Este
+> repositório documenta o que foi construído, como funciona e **que resultado produziu**.
 
 🌐 **Versão navegável:** [holiv.github.io/project-management-portfolio](https://holiv.github.io/project-management-portfolio/) · 🇧🇷 PT-BR *(versão bilíngue em preparação)*
 
