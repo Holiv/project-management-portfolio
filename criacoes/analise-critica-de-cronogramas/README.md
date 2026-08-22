@@ -1,7 +1,7 @@
 # Sistema de análise crítica de cronogramas
 
-**Macros VBA + relatório reprodutível, dentro do próprio MS Project** · em uso; versão
-genérica planejada
+**Método provado em análise real, depois codificado em macros dentro do próprio MS Project**
+· em uso; versão genérica planejada
 
 ## Contexto
 
@@ -15,6 +15,15 @@ contratada contesta um achado, a discussão vira opinião contra opinião.
 Transformar o faro em **verificações nomeadas, com código estável**, executáveis por
 qualquer pessoa dentro do próprio MS Project — e um relatório em que **cada achado diz de
 onde saiu e como conferir**.
+
+## Do método à ferramenta
+
+A ordem de construção é parte do resultado: **primeiro a análise, depois o código**. A
+primeira análise crítica foi executada com um pipeline próprio (Python + MPXJ) sobre uma
+entrega real de 510 atividades — e cada verificação nasceu de um achado dessa análise,
+nenhuma foi inventada por completude. Só então o método foi codificado em macros VBA, para
+que a mesma auditoria rodasse dentro do próprio MS Project, por qualquer pessoa, a cada
+entrega.
 
 ## Como funciona
 
@@ -35,7 +44,7 @@ onde saiu e como conferir**.
 
 ## Resultado
 
-Na primeira aplicação real (entrega de **510 atividades** de um trecho de ~22 km), a análise
+Na análise fundadora (entrega de **510 atividades** de um trecho de ~22 km), o método
 encontrou — com evidência reproduzível:
 
 - **60 vínculos de rede violados** na data de status, com 8 inversões totais (sucessora
@@ -47,8 +56,14 @@ encontrou — com evidência reproduzível:
 - reserva de improdutividade climática **aplicada no ano errado** em parte das atividades —
   otimismo de duração da ordem de 30%, invisível a olho nu.
 
-A análise que dependia de experiência individual virou **procedimento executável e
-auditável** — e a discussão com a contratada passou de opinião para evidência conferível.
+Em seguida, já como macro em uso real, o mesmo conjunto de critérios auditou o cronograma de
+uma **segunda contratada — 5.251 atividades folha — com o relatório completo gerado em um
+comando**. A análise que dependia de experiência individual virou **procedimento executável,
+auditável e escalável**: de 510 para 5.251 atividades com os mesmos critérios, e a discussão
+com a contratada passou de opinião para evidência conferível.
+
+*Tempos de execução e comparativo com a análise manual: em levantamento — entram com data e
+método de medição.*
 
 ## Capacidades demonstradas
 

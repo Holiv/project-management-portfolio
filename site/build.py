@@ -166,7 +166,7 @@ footer a{{color:#fff}}
 <div class="n"><strong>329 commits · 2 meses</strong><span>maior sistema: ~11 domínios funcionais, 48 migrations</span></div>
 <div class="n"><strong>6.483 atividades</strong><span>maior cronograma processado — rateio no tempo reproduzindo o MS Project ao centavo</span></div>
 <div class="n"><strong>2 cliques</strong><span>para qualquer gestor acessar avanço e desvio, de onde estiver</span></div>
-<div class="n"><strong>12 verificações</strong><span>de análise crítica concebidas de achados reais — 6 ativas + 2 em standby</span></div>
+<div class="n"><strong>510 → 5.251 atividades</strong><span>auditadas com os mesmos critérios — método provado à mão, depois codificado, relatório em um comando</span></div>
 <div class="n"><strong>0 → 1, sozinho</strong><span>concepção, arquitetura, implementação e operação por uma pessoa</span></div>
 </div>
 <p class="ress">Números operacionais (horas por ciclo, usuários ativos, relatórios processados) em levantamento — serão incorporados com data e método de medição.</p>
