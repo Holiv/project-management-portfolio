@@ -46,6 +46,7 @@ estão em levantamento e serão incorporados com data e método de medição.*
 
 - Cada criação: [`README.md`](criacoes/) = narrativa (contexto → proposta → funcionamento →
   **resultado** → capacidades demonstradas) · `arquitetura.md` = implementação e decisões.
+- [**Onde os sistemas operam**](onde-operam.md) — o programa, as pessoas e o ciclo em que tudo roda.
 - [**Linha do tempo**](linha-do-tempo.md) — a sequência de criação e como uma ferramenta levou à outra.
 - [**Capacidades**](capacidades.md) — matriz habilidade × onde foi demonstrada.
 

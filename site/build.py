@@ -11,7 +11,7 @@ CRIACOES = [
     ("gestao-de-equipe", "equipe", "Gestão de equipe e competências", "Sistema com série longitudinal de dados · em uso pela equipe"),
 ]
 ANCORAS = {d: f"#{a}" for d, a, _, _ in CRIACOES}
-ANCORAS.update({"linha-do-tempo.md": "#linha-do-tempo", "capacidades.md": "#capacidades"})
+ANCORAS.update({"linha-do-tempo.md": "#linha-do-tempo", "capacidades.md": "#capacidades", "onde-operam.md": "#onde-operam"})
 
 def resolve(dest):
     if dest.startswith("http"): return dest
@@ -94,6 +94,7 @@ for pasta, anc, titulo, sub in CRIACOES:
 <header><h2>{html.escape(titulo)}</h2><p class="sub">{html.escape(sub)}</p></header>
 {narrativa}{det}</section>''')
 
+onde = corpo(ROOT / "onde-operam.md")
 linha = corpo(ROOT / "linha-do-tempo.md")
 caps = corpo(ROOT / "capacidades.md")
 hoje = datetime.date.today().strftime("%d/%m/%Y")
@@ -157,7 +158,7 @@ footer a{{color:#fff}}
 <p class="links"><a href="https://www.linkedin.com/in/helton-so/" target="_blank" rel="noopener">LinkedIn</a><a href="https://github.com/Holiv" target="_blank" rel="noopener">GitHub</a><a href="https://github.com/Holiv/project-management-portfolio" target="_blank" rel="noopener">Este portfólio no GitHub</a></p>
 </div></div>
 <nav class="toc"><div class="wrap">
-<a href="#numeros">Em números</a><a href="#ecossistema">Ecossistema</a><a href="#comparador">Comparador</a><a href="#analise">Análise crítica</a><a href="#equipe">Equipe</a><a href="#linha-do-tempo">Linha do tempo</a><a href="#capacidades">Capacidades</a>
+<a href="#numeros">Em números</a><a href="#onde-operam">O programa</a><a href="#ecossistema">Ecossistema</a><a href="#comparador">Comparador</a><a href="#analise">Análise crítica</a><a href="#equipe">Equipe</a><a href="#linha-do-tempo">Linha do tempo</a><a href="#capacidades">Capacidades</a>
 </div></nav>
 <main class="wrap">
 <section id="numeros" class="numeros"><h2>Em números</h2>
@@ -174,6 +175,7 @@ footer a{{color:#fff}}
 </div>
 <p class="ress">Números de operação medidos em 22/08/2026 por consulta ao banco de produção, com dados de teste excluídos. Comparativos de tempo (antes × depois) entrarão como estimativa rotulada, com o método — nunca como medição que não houve.</p>
 </section>
+<section id="onde-operam" class="bloco"><h2>Onde os sistemas operam</h2>{onde}</section>
 {"".join(sec_criacoes)}
 <section id="linha-do-tempo" class="bloco"><h2>Linha do tempo</h2>{linha}</section>
 <section id="capacidades" class="bloco"><h2>Capacidades</h2>{caps}</section>
