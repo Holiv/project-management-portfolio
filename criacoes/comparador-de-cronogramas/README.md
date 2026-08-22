@@ -42,9 +42,11 @@ tendência das próximas seis semanas e série histórica de todo o contrato.
   cliques, de onde estiverem** — a informação deixou de depender de abrir o computador.
 - Histórico completo do contrato preservado **sem nenhum servidor**: a série viaja nos
   próprios relatórios.
-- Integração em operação, medida em 22/08/2026 no banco de produção: **7 relatórios
-  consumidos pelo aplicativo, 6 deles pelo fluxo automático via API** — o caminho de um
-  clique já é o caminho normal.
+- Integração em operação, medida em 22/08/2026 no banco de produção: **seis janelas
+  semanais consecutivas de comparação, sem interrupção** (jul–ago/2026), consumidas pelo
+  aplicativo via API — cada janela começa exatamente onde a anterior terminou, e a
+  continuidade é verificável na própria base. O caminho de um clique não é o demo: **é o
+  ciclo normal de operação.**
 - *Em levantamento: comparativo de horas de análise manual por ciclo (entrará como
   estimativa rotulada, com o método).*
 
