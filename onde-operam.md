@@ -5,8 +5,8 @@ ambiente real — e o ambiente explica a exigência.
 
 ## O programa
 
-Um programa de **concessão rodoviária federal de grande porte**, com investimento da ordem
-de **R$ 7 bilhões** e uma carteira mapeada de **32 obras** — duplicações, faixas adicionais,
+O programa de investimentos da **Arteris** na concessão federal da **BR-101/RJ** — da ordem
+de **R$ 7 bilhões**, com uma carteira mapeada de **32 obras** — duplicações, faixas adicionais,
 obras de arte especiais e recuperações, distribuídas ao longo de centenas de quilômetros de
 rodovia em operação. Obra linear, multi-contrato, com múltiplas construtoras executando em
 paralelo — o cenário em que informação dispersa custa caro e decisão atrasada custa mais.

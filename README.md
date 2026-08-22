@@ -12,8 +12,8 @@
 
 ## O que há aqui
 
-Quatro sistemas concebidos, projetados e implementados por mim, todos **em uso real** em um
-programa de concessão rodoviária de grande porte. Cada um está documentado em duas partes:
+Quatro sistemas concebidos, projetados e implementados por mim, todos **em uso real** no programa de
+concessão da **Arteris** na BR-101/RJ. Cada um está documentado em duas partes:
 a **narrativa** — o problema, a solução e o resultado — e a **arquitetura** — como foi
 implementado, sem exposição de dados sensíveis.
 
@@ -52,10 +52,10 @@ estão em levantamento e serão incorporados com data e método de medição.*
 
 ## Nota de integridade
 
-Este portfólio referencia sistemas em produção corporativa. Os repositórios privados são
-citados como existentes e de minha autoria (verificável pelo histórico de commits), sem
-exposição de código proprietário. **Nenhum dado contratual, financeiro ou pessoal de
-terceiros aparece aqui** — os números são de escala e engenharia, não de negócio.
+Este portfólio referencia sistemas em produção na Arteris, meu empregador — citados como um
+currículo cita: o vínculo, a autoria (verificável pelo histórico de commits dos repositórios
+privados) e informações públicas do programa. **Nenhum dado interno, contratual ou pessoal de
+terceiros aparece aqui** — os números são de escala, engenharia e informação pública.
 
 ---
 

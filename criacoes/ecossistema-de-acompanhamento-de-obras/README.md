@@ -1,8 +1,9 @@
 # Ecossistema de acompanhamento de obras
 
-**Plataforma web de project controls, em produção** · aplicação corporativa (repositório
-privado do empregador, de minha autoria — histórico de commits verificável) · versão genérica
-aberta em construção: [Chainage](https://github.com/Holiv/chainage)
+**Plataforma web de project controls, em produção na Arteris** · o sistema **ACOMP-OBRAS**
+(repositório corporativo privado `arteris-fluminense/acomp-obras`, de minha autoria —
+histórico de commits verificável) · versão genérica aberta em construção:
+[Chainage](https://github.com/Holiv/chainage)
 
 ## Contexto
 

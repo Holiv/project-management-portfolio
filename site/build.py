@@ -154,7 +154,7 @@ footer a{{color:#fff}}
 <div class="band"><div class="wrap">
 <p class="kicker">Portfólio · Gerenciamento de Projetos &amp; Project Controls</p>
 <h1>Helton da Silva de Oliveira</h1>
-<p class="lede">Engenheiro civil (CREA-RJ) e analista de planejamento sênior que <strong>constrói as ferramentas que a empresa inteira usa para acompanhar suas obras</strong> — de quem lança o dado em campo a quem decide na gestão. Quatro sistemas em uso real num programa de concessão rodoviária, documentados do problema ao resultado.</p>
+<p class="lede">Engenheiro civil (CREA-RJ) e analista de planejamento sênior que <strong>constrói as ferramentas que a empresa inteira usa para acompanhar suas obras</strong> — de quem lança o dado em campo a quem decide na gestão. Quatro sistemas em uso real no programa de concessão da Arteris na BR-101/RJ, documentados do problema ao resultado.</p>
 <p class="links"><a href="https://www.linkedin.com/in/helton-so/" target="_blank" rel="noopener">LinkedIn</a><a href="https://github.com/Holiv" target="_blank" rel="noopener">GitHub</a><a href="https://github.com/Holiv/project-management-portfolio" target="_blank" rel="noopener">Este portfólio no GitHub</a></p>
 </div></div>
 <nav class="toc"><div class="wrap">
@@ -181,7 +181,7 @@ footer a{{color:#fff}}
 <section id="capacidades" class="bloco"><h2>Capacidades</h2>{caps}</section>
 </main>
 <footer><div class="wrap">
-<p><strong style="color:#fff">Nota de integridade.</strong> Este portfólio referencia sistemas em produção corporativa. Os repositórios privados são citados como existentes e de minha autoria — verificável pelo histórico de commits — sem exposição de código proprietário. Nenhum dado contratual, financeiro ou pessoal de terceiros aparece aqui.</p>
+<p><strong style="color:#fff">Nota de integridade.</strong> Este portfólio referencia sistemas em produção na Arteris, meu empregador — citados como um currículo cita: o vínculo, a autoria (verificável pelo histórico de commits dos repositórios privados) e informações públicas do programa. Nenhum dado interno, contratual ou pessoal de terceiros aparece aqui.</p>
 <p>Versão em português · versão bilíngue em preparação · atualizado {hoje} · <a href="https://github.com/Holiv/project-management-portfolio">fonte</a></p>
 </div></footer>
 </body></html>"""
