@@ -169,6 +169,7 @@ footer a{{color:#fff}}
 <div class="n"><strong>510 → 5.251 atividades</strong><span>auditadas com os mesmos critérios — método provado à mão, depois codificado, relatório em um comando</span></div>
 <div class="n"><strong>25 usuários reais</strong><span>em dois setores, ~6 semanas de operação — medido no banco em 22/08/2026</span></div>
 <div class="n"><strong>~193 mil registros</strong><span>de avanço físico no acervo, incluindo a carga do histórico legado</span></div>
+<div class="n"><strong>1–3 h → minutos</strong><span>por análise crítica de cronograma (estimativa do autor) — relatório completo observado em &lt;30 s</span></div>
 <div class="n"><strong>0 → 1, sozinho</strong><span>concepção, arquitetura, implementação e operação por uma pessoa</span></div>
 </div>
 <p class="ress">Números de operação medidos em 22/08/2026 por consulta ao banco de produção, com dados de teste excluídos. Comparativos de tempo (antes × depois) entrarão como estimativa rotulada, com o método — nunca como medição que não houve.</p>

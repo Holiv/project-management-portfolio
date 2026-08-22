@@ -62,8 +62,20 @@ comando**. A análise que dependia de experiência individual virou **procedimen
 auditável e escalável**: de 510 para 5.251 atividades com os mesmos critérios, e a discussão
 com a contratada passou de opinião para evidência conferível.
 
-*Tempos de execução e comparativo com a análise manual: em levantamento — entram com data e
-método de medição.*
+**Tempo por análise** *(estimativa do autor, de prática própria — não cronometrada)*: a
+análise manual equivalente custava **~1 hora para um cronograma de ~500 atividades e ~3 horas
+para um de 5.000+**, variando com a qualidade do arquivo. Com o sistema, a geração do
+relatório completo — mesmo no cronograma de ~5.000 atividades — **é observada em menos de 30
+segundos**, e o tempo do analista migrou para onde ele deveria estar: **a interpretação**.
+
+Mais importante que o tempo, nas palavras do autor: o relatório visual *"aumenta a percepção
+dos dados e evita deixar de identificar erros"* — a análise manual de 1–3 h também carregava
+risco de cobertura (pontos não verificados); **o sistema torna a varredura exaustiva por
+construção**.
+
+*Projeção derivada de estimativas:* no pico de uso previsto — 80 a 100 cronogramas em análise
+recorrente — a carga manual equivalente seria da ordem de **100 a 250 horas por rodada**,
+contra minutos de execução.
 
 ## Capacidades demonstradas
 
