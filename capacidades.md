@@ -31,6 +31,19 @@ Cada número aqui carrega **data e método**; onde a medida é estimativa do aut
 "em levantamento" até existir. Foi assim que o resultado do comparador esperou de agosto a
 setembro para ser escrito.
 
+## O que ainda não domino
+
+Esta seção existe porque um portfólio que só lista forças não é conferível — e porque o que
+falta hoje diz para onde a trajetória vai.
+
+- **Primavera P6** — a lacuna mais relevante para o mercado internacional de project controls.
+  Curso em andamento; o domínio real virá do serviço de ingestão de arquivos XER da plataforma
+  aberta, que é estudo de P6 aplicado e não paralelo a ele.
+- **Delay analysis forense** (metodologias de análise de atraso para pleito contratual) —
+  conhecimento conceitual, sem aplicação em caso real.
+- **DCMA 14-point** — as verificações próprias cobrem parte do mesmo terreno; a métrica
+  formal ainda não foi adotada.
+
 **Formação e certificações em curso:** pós-graduação em Gerenciamento de Projetos (conclusão
 2027) · PMP planejado para 2027 · AACE PSP planejado para 2029 · MSc Civil Engineering &
 Construction Management (Heriot-Watt) a partir de 2027.

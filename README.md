@@ -1,6 +1,6 @@
 # Portfólio de Gerenciamento de Projetos
 
-**Helton da Silva de Oliveira** · Engenheiro Civil (CREA-RJ) · Analista de Planejamento Sênior
+**Helton da Silva de Oliveira** · Engenheiro Civil (CREA-RJ) · Engenheiro II — Planejamento e Controle
 
 > Construo as ferramentas que empresas de infraestrutura usam para planejar e acompanhar
 > suas obras — **de quem alimenta o dado em campo a quem decide com ele na gestão**. Este
