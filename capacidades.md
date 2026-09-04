@@ -14,6 +14,23 @@
 | **Desenho de medição** — escalas com trava de integridade, série longitudinal, consentimento informado | [Gestão de equipe](criacoes/gestao-de-equipe/) |
 | **Documentação e método** — manuais de usuário, relatórios reprodutíveis ("confira você mesmo"), registro de decisões | Todas as criações |
 
+## Resultados medidos
+
+Cada número aqui carrega **data e método**; onde a medida é estimativa do autor, está dito.
+
+| Resultado | Onde | Estado |
+|---|---|---|
+| Relatórios adotados pela empresa para reporte **interno, gerencial e a acionistas** | Comparador | informado pelo autor, 04/09/2026 |
+| Ciclo de comparação de revisões: de **horas para menos de 10 minutos** | Comparador | informado pelo autor, 04/09/2026 — não instrumentado |
+| Cronograma de **5.251 atividades analisado em menos de 30 segundos** (≈3 h no processo manual) | Análise crítica | medido; o "antes" é estimativa de prática |
+| **25 contas de usuário reais em dois setores em ~6 semanas** de operação | Ecossistema | medido em produção |
+| Arquivos de até **6.483 atividades (60 MB)** processados com validação automática | Ecossistema | medido |
+| **Seis janelas semanais consecutivas** de comparação consumidas via API, sem interrupção | Comparador | medido no banco, 22/08/2026 |
+
+**A regra que sustenta esta tabela:** número sem data e sem método não entra — fica como
+"em levantamento" até existir. Foi assim que o resultado do comparador esperou de agosto a
+setembro para ser escrito.
+
 **Formação e certificações em curso:** pós-graduação em Gerenciamento de Projetos (conclusão
 2027) · PMP planejado para 2027 · AACE PSP planejado para 2029 · MSc Civil Engineering &
 Construction Management (Heriot-Watt) a partir de 2027.

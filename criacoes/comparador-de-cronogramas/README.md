@@ -47,8 +47,20 @@ tendência das próximas seis semanas e série histórica de todo o contrato.
   aplicativo via API — cada janela começa exatamente onde a anterior terminou, e a
   continuidade é verificável na própria base. O caminho de um clique não é o demo: **é o
   ciclo normal de operação.**
-- *Em levantamento: comparativo de horas de análise manual por ciclo (entrará como
-  estimativa rotulada, com o método).*
+- **Adoção institucional do relatório** *(informado pelo autor, 04/09/2026)*: os relatórios
+  gerados pelo comparador passaram a ser usados pela empresa como material de **reporte
+  interno, gerencial e a acionistas**. É o indicador de resultado mais forte desta criação —
+  não mede tempo economizado, mede **em que ponto da organização o produto passou a ser
+  confiado**.
+- **Tempo de ciclo** *(informado pelo autor, 04/09/2026; não cronometrado por instrumento)*:
+  a comparação entre revisões e a montagem do relatório eram manuais e custavam **horas,
+  variando com o tamanho do cronograma**. Com o comparador, **o ciclo completo fecha em menos
+  de 10 minutos**.
+
+  *Método e limite desta medida:* é observação de prática do autor sobre o próprio processo,
+  não medição instrumentada, e o "antes" varia por arquivo. O que está firme é a ordem de
+  grandeza — horas contra minutos — e o fato de o ciclo ter deixado de depender de janela de
+  trabalho dedicada.
 
 ## Capacidades demonstradas
 
