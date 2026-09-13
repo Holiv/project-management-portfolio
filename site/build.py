@@ -9,8 +9,21 @@ CRIACOES = [
     ("comparador-de-cronogramas", "comparador", "Comparador de cronogramas", "Motor VBA Excel ↔ MS Project · em uso semanal"),
     ("analise-critica-de-cronogramas", "analise", "Análise crítica de cronogramas", "Auditoria executável dentro do MS Project · em uso"),
     ("gestao-de-equipe", "equipe", "Gestão de equipe e competências", "Sistema com série longitudinal de dados · em uso pela equipe"),
+    ("cronoaudit", "cronoaudit", "cronoaudit", "Agent Skill pública · formato aberto · Apache 2.0"),
 ]
+
+# Esta lista e escrita a mao, e por isso uma criacao nova nao aparece sozinha - foi o que
+# aconteceu com a cronoaudit em 12/09. Conferencia abaixo: avisa se houver pasta em criacoes/
+# que nao esteja listada aqui. Nao gera sozinha de proposito, porque a ORDEM importa (a
+# ordem da lista e a ordem de leitura do site) e varredura de pasta nao sabe ordenar.
 ANCORAS = {d: f"#{a}" for d, a, _, _ in CRIACOES}
+
+_listadas = {d for d, _, _, _ in CRIACOES}
+_em_disco = {x.name for x in (ROOT / "criacoes").iterdir() if x.is_dir()}
+_faltando = _em_disco - _listadas
+if _faltando:
+    print(f"  !! {len(_faltando)} criacao(oes) em disco e FORA do site: {sorted(_faltando)}")
+    print("     acrescente em CRIACOES, na posicao certa da ordem de leitura.")
 ANCORAS.update({"linha-do-tempo.md": "#linha-do-tempo", "capacidades.md": "#capacidades", "onde-operam.md": "#onde-operam"})
 
 def resolve(dest):

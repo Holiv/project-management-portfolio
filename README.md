@@ -12,7 +12,7 @@
 
 ## O que há aqui
 
-Quatro sistemas concebidos, projetados e implementados por mim, todos **em uso real** no programa de
+Cinco criações concebidas, projetadas e implementadas por mim. Quatro estão **em uso real** no programa de
 concessão da **Arteris** na BR-101/RJ. Cada um está documentado em duas partes:
 a **narrativa** — o problema, a solução e o resultado — e a **arquitetura** — como foi
 implementado, sem exposição de dados sensíveis.
@@ -23,6 +23,7 @@ implementado, sem exposição de dados sensíveis.
 | [**Comparador de cronogramas**](criacoes/comparador-de-cronogramas/) | Motor VBA que compara entregas semanais de cronograma e gera relatório executivo com tendência e histórico embutido | Em uso semanal |
 | [**Análise crítica de cronogramas**](criacoes/analise-critica-de-cronogramas/) | Verificações codificadas que auditam um cronograma entregue e produzem relatório reprodutível — dentro do próprio MS Project | Em uso |
 | [**Gestão de equipe e competências**](criacoes/gestao-de-equipe/) | Sistema de gestão de equipe: competências (escala Dreyfus), metas, RACI, acompanhamento — com série longitudinal de dados | Em uso pela equipe |
+| [**cronoaudit**](criacoes/cronoaudit/) | Agent Skill **pública** de auditoria de integridade de cronograma — formato aberto, instalável em Claude Code, Codex, Gemini CLI, Cursor, Copilot e outros | 🌐 [pública no GitHub](https://github.com/Holiv/cronoaudit), Apache 2.0 |
 
 **Versão genérica e aberta:** o método destes sistemas está sendo reconstruído, do zero e sem
 dado corporativo, na plataforma aberta **[Chainage](https://github.com/Holiv/chainage)**
