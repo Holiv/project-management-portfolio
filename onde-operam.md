@@ -1,7 +1,7 @@
 # Onde os sistemas operam
 
-Nada neste portfólio é protótipo de laboratório. Os quatro sistemas operam num mesmo
-ambiente real — e o ambiente explica a exigência.
+Nada neste portfólio é protótipo de laboratório. Os quatro sistemas internos operam num mesmo
+ambiente real — a cronoaudit, a quinta criação, nasceu desse mesmo método e é pública — e o ambiente explica a exigência.
 
 ## O programa
 
